@@ -1,3 +1,3 @@
 # Semantic Image Search
 
-Work in progress.
+Work in progress....
